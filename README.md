@@ -1,4 +1,4 @@
-# desafio-renzo-taranto
+# Desafio DB CRESCER
 
 Desafio teste para a vaga de estágio da empresa DB | CRESCER.
 
